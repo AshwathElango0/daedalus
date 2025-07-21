@@ -61,6 +61,4 @@ Daedalus is an agentic, LLM-powered platform that turns natural language busines
 - **Email:** admin
 - **Password:** admin
 
----
 
-For questions or contributions, please open an issue or pull request.
